@@ -1,0 +1,4 @@
+C:\ProyectosEspecialidad\salsa20\Debug\salsa20.vcxproj.CopyComplete
+C:\ProyectosEspecialidad\salsa20\Debug\salsa20.exe
+C:\ProyectosEspecialidad\salsa20\Debug\salsa20.pdb
+C:\ProyectosEspecialidad\salsa20\Debug\libsodium.dll
